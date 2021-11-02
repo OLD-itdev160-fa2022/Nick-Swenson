@@ -1,0 +1,30 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    margin: auto 30px;
+}
+
+#credits {
+    font-size: italic;
+    font-size: .7em;
+    margin-bottom: 20px;
+}
+#header-image {
+width: 100%;
+}
+body {
+    margin: 0;
+    padding: 0;
+    background: #ffffff;
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+    color: #6b7177;
+    font-weight: 400;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
